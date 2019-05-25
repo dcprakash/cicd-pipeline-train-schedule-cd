@@ -10,7 +10,7 @@ var trainsRouter = require('./routes/trains');
 var app = express();
 
 // view engine setup
-// adding comment to test build - 4
+// adding comment to test build - 5
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 
